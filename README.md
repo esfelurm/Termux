@@ -11,7 +11,7 @@ bash EsTermux. sh
 
 If you don't have git installed, use the following method: 
 
-
+<li><a href="https://github.com/esfelurm/Termux/archive/refs/heads/main.zip"> Download Repository</li>
 
 
 
