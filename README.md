@@ -9,6 +9,10 @@ cd Termux
 bash EsTermux.sh
 ```
 
+## Test Install Librarys
+
+<img src="https://github.com/esfelurm/Termux/assets/104654028/c1d687d2-c33f-4db0-8280-528216639002"> 
+
 #### If you don't have git installed, use the following method: 
 
 - <a href="https://github.com/esfelurm/Termux/archive/refs/heads/main.zip"> Download Repository 
