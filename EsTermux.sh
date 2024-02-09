@@ -13,7 +13,7 @@ echo "Choose an option:"
 read selection
 
 if [ $selection -eq 1 ]; then
-    libraries=("requests" "colorama" "uuid" "user-agent" "urllib3" "termcolor" "Telethon" "telepot" "telebot" "regex" "rarfile" "pyttsx3" "pillow" "PySocks" "python-telegram-bot" "Pyrogram" "pyfiglet" "psutil" "patool" "Markdown" "jdatetime" "httpx" "gTTS" "Flask" "exif" "Cython" "colored" "bs4" "asyncio" "python-socks" "pycryptodome" "pynacl" "pyproject-toml" "wheel")
+    libraries=("requests" "colorama" "uuid" "user-agent" "urllib3" "termcolor" "Telethon" "telepot" "telebot" "regex" "rarfile" "pyttsx3" "pillow" "PySocks" "python-telegram-bot" "Pyrogram" "pyfiglet" "psutil" "patool" "Markdown" "jdatetime" "httpx" "gTTS" "Flask" "exif" "Cython" "colored" "bs4" "asyncio" "python-socks" "pycryptodome" "pynacl" "pyproject-toml" "wheel" "pycryptodomex")
 
     installed_libraries=()
 
