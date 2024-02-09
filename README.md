@@ -1,7 +1,7 @@
 ## Installing packages 
 
 
-If you have git installed on your Termux, clone the repository and run EsTermux 👇
+If you have `git` installed on your Termux, `clone` the repository and run EsTermux 👇
 
 ```
 git clone https://github.com/esfelurm/Termux
@@ -15,11 +15,13 @@ bash EsTermux. sh
 
 - Go to the downloads folder and then unzip the Termux file 
 
-- Enter the command ```cd /sdcard/Download/Termux-main``` in Termux
+- Enter the command ```cd /sdcard/Download``` in Termux
 
-- mv EsTermux.sh $HOEM
+- Type the `mv Termux-main $HOME` command
 
 - Type the `cd` command 
+
+- Type the `cd Termux-main` command
 
 - Type the `bash EsTermux. sh` command
 
@@ -63,6 +65,8 @@ Follow the steps below 👇
 
 - Now select `Mirrors by BFSU` option as shown below and press enter 
 
+<img src="https://github.com/esfelurm/Termux/assets/104654028/43068374-6234-408b-b793-045ca79860f1"> 
 
 - Update now: pkg update && pkg upgrade
 
+If it asks any question, enter `Y` 
