@@ -52,7 +52,17 @@ N: Possible cause: repository is under maintenance or down (wrong sources.list U
 Follow the steps below 👇
 
 
+- In the first step, allow Termux to access the memory with the `termux-setup-storage` command 
+
+- Now, to change the repo, enter the `termux-change-repo` command to enter a page 
+
+- As in the image below, select the `Main repository` option and then press enter
+
+<img src="https://github.com/esfelurm/Termux/assets/104654028/5dbb2071-6de0-447e-926f-150e52c01ebc"> 
 
 
+- Now select `Mirrors by BFSU` option as shown below and press enter 
 
+
+- Update now: pkg update && pkg upgrade
 
