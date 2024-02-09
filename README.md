@@ -29,7 +29,7 @@ bash EsTermux.sh
 
 - Type the `cd Termux-main` command
 
-- Type the `bash EsTermux. sh` command
+- Type the `bash EsTermux.sh` command
 
 
 -------------------------------
