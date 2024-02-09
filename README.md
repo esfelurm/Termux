@@ -27,6 +27,7 @@ bash EsTermux.sh
 
 - Type the `bash EsTermux. sh` command
 
+
 -------------------------------
 
 ### Fixed the error of not installing packages in Termux 
