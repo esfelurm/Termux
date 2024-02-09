@@ -74,6 +74,8 @@ Follow the steps below 👇
 
 <img src="https://github.com/esfelurm/Termux/assets/104654028/43068374-6234-408b-b793-045ca79860f1"> 
 
+- Type the `apt remove science-repo game-repo` command
+
 - Update now: pkg update && pkg upgrade
 
 If it asks any question, enter `Y` 
